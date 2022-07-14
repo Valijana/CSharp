@@ -1,0 +1,15 @@
+D:\FullStackDevelopment\CSharp\Chapter 01\TopLevelProgram\bin\Debug\net6.0\TopLevelProgram.exe
+D:\FullStackDevelopment\CSharp\Chapter 01\TopLevelProgram\bin\Debug\net6.0\TopLevelProgram.deps.json
+D:\FullStackDevelopment\CSharp\Chapter 01\TopLevelProgram\bin\Debug\net6.0\TopLevelProgram.runtimeconfig.json
+D:\FullStackDevelopment\CSharp\Chapter 01\TopLevelProgram\bin\Debug\net6.0\TopLevelProgram.dll
+D:\FullStackDevelopment\CSharp\Chapter 01\TopLevelProgram\bin\Debug\net6.0\TopLevelProgram.pdb
+D:\FullStackDevelopment\CSharp\Chapter 01\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.csproj.AssemblyReference.cache
+D:\FullStackDevelopment\CSharp\Chapter 01\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullStackDevelopment\CSharp\Chapter 01\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.AssemblyInfoInputs.cache
+D:\FullStackDevelopment\CSharp\Chapter 01\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.AssemblyInfo.cs
+D:\FullStackDevelopment\CSharp\Chapter 01\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.csproj.CoreCompileInputs.cache
+D:\FullStackDevelopment\CSharp\Chapter 01\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.dll
+D:\FullStackDevelopment\CSharp\Chapter 01\TopLevelProgram\obj\Debug\net6.0\refint\TopLevelProgram.dll
+D:\FullStackDevelopment\CSharp\Chapter 01\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.pdb
+D:\FullStackDevelopment\CSharp\Chapter 01\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.genruntimeconfig.cache
+D:\FullStackDevelopment\CSharp\Chapter 01\TopLevelProgram\obj\Debug\net6.0\ref\TopLevelProgram.dll
